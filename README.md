@@ -10,20 +10,20 @@ In order to become a developer, he is taking the following steps:
 
 ---
 
-### Playing with markdown syntax
+# Playing with markdown syntax
 ## Testing different heading styles
-# whixh is best?
+### which is best?
 
-*Italics* ~~Strikethrough~~
-**Bold** :joy:
+*Italics* ~~Strikethrough~~;
+**Bold** :joy:;
 2^3^ = 8, Drink more H~2~O
 
 Here is a sentence with a footnote. [^1]
 > Blockquote
 
-'print ("Hello, world!")' 
+`print ("Hello, world!")` 
 
-| |**A** | **B** | **C** |
+| x | **A** | **B** | **C** |
 | **1** | A1 | B2 | C1 |
 | **2** | A2 | B2 | C2 |
 | **3** | A3 | B3 | C3 |
@@ -32,6 +32,6 @@ Term
 : Definition list
 
 
-[^1] Here is the footnote
+[^1]: Here is the footnote
 
 ---
